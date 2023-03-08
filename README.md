@@ -1,2 +1,2 @@
 # odin-recipes
-Nauka
+Nauka korzystania z konsoli oraz html
